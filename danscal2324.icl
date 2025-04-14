@@ -60,9 +60,26 @@ SUMMARY:2e Pinksterdag -> PrizDanz Studio gesloten
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250706
-DTEND;VALUE=DATE:20250707
-SUMMARY:Eindshow (overige data rondom de eindshow volgen nog)
+SUMMARY:Céline Eindshow (brengen 14:00 - ophalen 17:30)
+DTSTART:20250705T140000
+DTEND:20250705T173000
+LOCATION:De Kunstlinie\, Almere
+DESCRIPTION:Eindshow voor leerlingen onder 6 jaar.\n\nTijdschema:\n14:00-15:00 - Ontvangst leerlingen show 1 (onder 6 jaar)\n15:00-17:15 - Show 1\n17:30 - Ophalen bij de artiesten-ingang\n\nLocatie: De Kunstlinie\, Almere.\n\nHerinnering: Dance kleding en sportschoenen die niet buiten gedragen zijn. Flesje water meenemen.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chloé Eindshow (brengen 11:00 - ophalen 17:30)
+DTSTART:20250705T110000
+DTEND:20250705T173000
+LOCATION:De Kunstlinie\, Almere
+DESCRIPTION:Eindshow voor leerlingen vanaf 6 jaar.\n\nTijdschema:\n11:00-12:00 - Ontvangst leerlingen show 1 (vanaf 6 jaar)\n12:00-14:00 - Generale show 1\n15:00-17:15 - Show 1\n17:30 - Ophalen bij de artiesten-ingang\n\nLocatie: De Kunstlinie\, Almere.\n\nHerinnering: Dance kleding en sportschoenen die niet buiten gedragen zijn. Flesje water en lunch/tussendoortje meenemen.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Chloé Eindshow Show 2 (brengen 09:00 - ophalen 13:30)
+DTSTART:20250706T090000
+DTEND:20250706T133000
+LOCATION:De Kunstlinie\, Almere
+DESCRIPTION:Eindshow Show 2 voor Chloé.\n\nTijdschema:\n09:00-09:30 - Ontvangst leerlingen show 2\n09:30-10:30 - Generale repetitie show 2\n11:00-13:15 - Show 2\n13:30 - Ophalen bij de artiesten-ingang\n\nLocatie: De Kunstlinie\, Almere.\n\nHerinnering: Dance kleding en sportschoenen die niet buiten gedragen zijn. Flesje water en lunch/tussendoortje meenemen.
 END:VEVENT
 
 BEGIN:VEVENT
