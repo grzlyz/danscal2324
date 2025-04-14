@@ -33,6 +33,21 @@ SUMMARY:Meivakantie -> PrizDanz Studio gesloten
 END:VEVENT
 
 BEGIN:VEVENT
+SUMMARY:Céline Doorloop (brengen 10:00 - ophalen 11:00)
+DTSTART:20250622T100000
+DTEND:20250622T110000
+LOCATION:Sporthal Buiten\, Boekenweg 1\, 1333 VD ALMERE
+DESCRIPTION:Céline brengen om 10:00 uur en ophalen om 11:00 uur.\n\nLocatie: Sporthal Buiten\, Boekenweg 1\, 1333 VD ALMERE (Naast het Oostvaarders college).\n\nHerinnering: Dance kleding en sportschoenen die niet buiten gedragen zijn. Flesje water meenemen.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chloé Doorloop (brengen 10:45 - ophalen 13:00)
+DTSTART:20250622T104500
+DTEND:20250622T130000
+LOCATION:Sporthal Buiten\, Boekenweg 1\, 1333 VD ALMERE
+DESCRIPTION:Chloé brengen om 10:45 uur en ophalen om 13:00 uur.\n\nLocatie: Sporthal Buiten\, Boekenweg 1\, 1333 VD ALMERE (Naast het Oostvaarders college).\n\nHerinnering: Dance kleding en sportschoenen die niet buiten gedragen zijn. Flesje water en lunch/tussendoortje meenemen.
+END:VEVENT
+
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250529
 DTEND;VALUE=DATE:20250530
 SUMMARY:Hemelvaartsdag -> PrizDanz Studio gesloten
